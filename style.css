@@ -1,0 +1,11 @@
+/* .animate__animated{
+    animation-name : backInDown;
+    animation-duration: 10s;
+}
+:root {
+  --animate-duration: 800ms;
+  --animate-delay: 0.9s;
+} */
+#font {
+    font-family: 'Dancing Script', cursive;
+}
